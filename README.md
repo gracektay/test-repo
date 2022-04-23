@@ -8,6 +8,7 @@
 - https://developer.mozilla.org/en-US/
 - https://css-tricks.com
 - https://stackoverflow.com
+- https://www.freecodecamp.org/
 
 ### Typography
 - https://miro.com/app/board/uXjVODhpwBU=/
