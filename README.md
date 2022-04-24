@@ -9,6 +9,7 @@
 - https://css-tricks.com
 - https://stackoverflow.com
 - https://www.freecodecamp.org/
+- https://dev.to/theodorusclarence/series/13057
 
 ### Typography
 - https://miro.com/app/board/uXjVODhpwBU=/
