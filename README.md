@@ -10,6 +10,9 @@
 - https://stackoverflow.com
 - https://www.freecodecamp.org/
 - https://dev.to/theodorusclarence/series/13057
+- [HTML in 100 - Youtube](https://www.youtube.com/watch?v=ok-plXXHlWw)
+- [CSS in 100 - Youtube](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
+
 
 ### Typography
 - https://miro.com/app/board/uXjVODhpwBU=/
@@ -27,5 +30,10 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://getbootstrap.com/docs/4.0/layout/grid/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
-- https://www.youtube.com/watch?v=jV8B24rSN5o
-- https://www.youtube.com/watch?v=p0bGHP-PXD4
+- [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+
+### Accessibility
+- https://webaim.org
+- https://wave.webaim.org
+- https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts
