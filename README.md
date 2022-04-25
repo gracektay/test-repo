@@ -33,7 +33,8 @@
 - [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 - [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
-### Accessibility
+## Accessibility
 - https://webaim.org
 - https://wave.webaim.org
 - https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts
+- [Why Semantic HTML Matters: Intro to Accessibility and VoiceOver](https://www.youtube.com/watch?v=qNqwL6bdmkg)
