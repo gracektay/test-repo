@@ -13,7 +13,10 @@
 - [HTML in 100 - Youtube](https://www.youtube.com/watch?v=ok-plXXHlWw)
 - [CSS in 100 - Youtube](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
 
-
+### Examples / Templates
+- https://www.w3schools.com/howto/howto_make_a_website.asp
+- https://www.w3schools.com/w3css/w3css_templates.asp
+- 
 ### Typography
 - https://miro.com/app/board/uXjVODhpwBU=/
 
