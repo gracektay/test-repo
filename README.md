@@ -20,9 +20,10 @@
 ### Typography
 - https://miro.com/app/board/uXjVODhpwBU=/
 
-### Image / aspect ratio
+### Images / aspect ratio
 - https://www.w3schools.com/howto/howto_css_aspect_ratio.asp
 - https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
+- https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio
 
 ### Units
 - https://alligator.io/css/viewport-units/
