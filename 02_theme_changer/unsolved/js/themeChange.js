@@ -1,0 +1,2 @@
+$('.themeChange').on('click', function() {
+});
