@@ -40,6 +40,13 @@
 - [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 - [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
+## Positioning
+- https://css-tricks.com/almanac/properties/p/position/
+- https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/
+- https://www.tutorialspoint.com/css/css_positioning.htm
+- https://www.w3schools.com/css/css_positioning.asp
+
+
 ## Accessibility
 - https://webaim.org
 - https://wave.webaim.org
