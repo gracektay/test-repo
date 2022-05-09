@@ -42,6 +42,7 @@
 
 ## Positioning
 - https://css-tricks.com/almanac/properties/p/position/
+- [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
 - https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/
 - https://www.tutorialspoint.com/css/css_positioning.htm
 - https://www.w3schools.com/css/css_positioning.asp
