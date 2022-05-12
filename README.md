@@ -34,6 +34,7 @@
 - https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
 
 ### Layouts
+- [Learn flexbox the easy way](https://youtu.be/u044iM9xsWU)
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://getbootstrap.com/docs/4.0/layout/grid/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
